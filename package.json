@@ -1,5 +1,5 @@
 {
-  "name": "@ivoy/react-admin-lb4",
+  "name": "ra-lb4",
   "version": "0.1.0",
   "description": "lb4 provider for react-admin",
   "main": "lib/react-admin-lb4.js",
